@@ -71,8 +71,8 @@ Forecasting New York energy load using SARIMA, Prophet, XGBoost, LSTM + weather 
 
 ### 🏥 Hospital Readmission Analytics (R + Shiny) 
 Interactive healthcare analytics dashboard that analyzes 30-day hospital readmissions using real-world patient encounter data.
-**Tools:** R, Shiny, shinydashboard, dplyr, ggplot2, caret, pROC
-🔗 Repo: https://github.com/jueeli97/Hospital-Readmission-Analytics
+**Tools**: R, Shiny, shinydashboard, dplyr, ggplot2, caret, pROC  
+Repo: https://github.com/jueeli97/Hospital-Readmission-Analytics
 
 ---
 
