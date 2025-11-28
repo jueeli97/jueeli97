@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | BI Developer | Data Scientist</h3>
 
 <p align="center">
-  🎓 MS in Information Technology & Analytics @ RIT, New York <br>
+  🎓 MS in Information Technology & Analytics @ RIT, USA <br>
   📊 Building analytics, ML models, dashboards & NLP solutions <br>
   💼 Actively seeking Full-Time roles (Data Analyst | BI Analyst | Data Scientist)
 </p>
@@ -23,10 +23,10 @@ and now I blend my technical + analytical skills to deliver powerful data-driven
 ## 🛠️ Tech Stack
 
 **Languages:**  
-Python • SQL • JavaScript • HTML/CSS  
+Python • SQL • R • JavaScript • HTML/CSS  
 
 **Data Science & ML:**  
-Pandas • NumPy • Scikit-learn • XGBoost • NLP (spaCy, BERT, TF-IDF)  
+Pandas • NumPy • Scikit-learn • SARIMA • XGBoost • Prophet • LSTM • NLP (spaCy, BERT, TF-IDF)  
 
 **Business Intelligence:**  
 Power BI • Tableau • Looker Studio • DAX • ETL Pipelines  
@@ -62,17 +62,24 @@ Classified real vs fraudulent job posts using NLP, TF-IDF, Random Forest, Logist
 
 ---
 
+### 🌍 Corruption Analysis: Impact on Governance, Health & Economy (R + Tableau)  
+Cross-country analysis exploring how corruption influences trust, governance quality, health coverage, and socio-economic indicators using statistical modeling and interactive dashboards.     
+**Tools:** R, tidyverse, ggplot2, corrplot, Tableau, data visualization    
+🔗 Repo: https://github.com/jueeli97/Corruption-Analysis
+
+---
+
 ### 📈 Electricity Demand Forecasting (Capstone Project)  
-Forecasting New York energy load using SARIMA, Prophet, XGBoost, LSTM + weather features.  
-**Tools:** Python, ML, Time Series  
-🔗 Repo: *Add your repo link here*
+End-to-end Python pipeline using SARIMA, Prophet, XGBoost & LSTM with engineered weather/seasonal features to forecast New York’s electricity consumption.      
+**Tools:** Python, ML, Time Series, Power BI      
+🔗 Repo: https://github.com/jueeli97/Capstone_Electricity_Forecasting  
 
 ---
 
 ### 🏥 Hospital Readmission Analytics (R + Shiny) 
 Interactive healthcare analytics dashboard that analyzes 30-day hospital readmissions using real-world patient encounter data.   
 **Tools**: R, Shiny, shinydashboard, dplyr, ggplot2, caret, pROC  
-Repo: https://github.com/jueeli97/Hospital-Readmission-Analytics
+🔗 Repo: https://github.com/jueeli97/Hospital-Readmission-Analytics
 
 ---
 
