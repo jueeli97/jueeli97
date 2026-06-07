@@ -62,13 +62,10 @@ Interactive healthcare analytics dashboard that analyzes 30-day hospital readmis
 
 ---
 
-## 🌸 HerRestartAI – AI-Powered Financial Recovery Assistant
-
+### 🌸 HerRestartAI – AI-Powered Financial Recovery Assistant (Google Gemini API)
 AI-powered financial guidance platform that generates personalized budgeting, debt recovery plans, and financial roadmaps for women navigating life transitions using Google Gemini and ElevenLabs Voice AI.
-
 **Tools:** Python, FastAPI, JavaScript, HTML/CSS, Google Gemini API, ElevenLabs API, Prompt Engineering, REST APIs
-
-🔗 **Repo:** https://github.com/jueeli97/StabilityAI
+🔗 Repo: https://github.com/jueeli97/StabilityAI
 
 ---
 
