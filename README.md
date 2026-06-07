@@ -1,41 +1,79 @@
 <h1 align="center">Hi, I'm Jueeli Sawant 👋</h1>
-<h3 align="center">Data Analyst | BI Developer | Data Scientist</h3>
+<h3 align="center">📊 Data Analyst | Business Intelligence | Data Scientist</h3>
 
 <p align="center">
-  🎓 MS in Information Technology & Analytics @ RIT, USA <br>
-  📊 Building analytics, ML models, dashboards & NLP solutions <br>
-  💼 Actively seeking Full-Time roles (Data Analyst | BI Analyst | Data Scientist)
+  Building data-driven products and AI-powered analytics solutions that help organizations make smarter business decisions.<br>
+  💻 SQL • Python • Power BI • Machine Learning • Generative AI • NLP • Forecasting <br>
+  🌎 Open to Data Analyst, BI Analyst, Product Analytics, Analytics Engineer, and Data Scientist opportunities.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Analytics & BI professional who loves transforming raw data into meaningful, actionable insights.  
-With experience across **Power BI, Python, SQL, NLP, Machine Learning, and Time Series Forecasting**,  
-I build end-to-end analytical solutions that solve business problems.
+I am a Data & Analytics professional focused on transforming raw data into actionable business decisions.
 
-Previously, I worked as a **Frontend Developer & Chatbot Developer (TCS)**,  
-and now I blend my technical + analytical skills to deliver powerful data-driven solutions.
+My work spans business intelligence, predictive analytics, machine learning, NLP, forecasting, and Generative AI applications. I enjoy building end-to-end analytical solutions—from data preparation and modeling to dashboards and AI-powered decision support systems.
+
+Recently, I have developed projects across customer analytics, energy forecasting, healthcare analytics, NLP, and AI-powered financial planning, leveraging technologies such as Python, SQL, Power BI, FastAPI, and Google Gemini.
+
+Prior to analytics, I worked as a Frontend and Chatbot Developer at TCS, where I built user-facing applications and conversational AI solutions. This combination of product thinking, software engineering, and analytics allows me to bridge technical implementation with business impact.
+
+I am particularly interested in solving problems involving customer behavior, operational efficiency, forecasting, business intelligence, and AI-driven analytics.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Technical Expertise
 
-**Languages:**  
-Python • SQL • R • JavaScript • HTML/CSS  
+### Analytics & Business Intelligence
+Power BI • Tableau • DAX • Data Visualization • KPI Development • Dashboard Design • Data Storytelling
 
-**Data Science & ML:**  
-Pandas • NumPy • Scikit-learn • SARIMA • XGBoost • Prophet • LSTM • NLP (spaCy, BERT, TF-IDF)  
+### Data Analysis
+SQL • Python • Pandas • NumPy • Exploratory Data Analysis • Statistical Analysis • Data Modeling
 
-**Business Intelligence:**  
-Power BI • Tableau • Looker Studio • DAX • ETL Pipelines  
+### Machine Learning & AI
+Scikit-Learn • XGBoost • Forecasting • NLP • TF-IDF • BERT • LSTM • Generative AI • Prompt Engineering • Google Gemini
 
-**Databases:**  
-MySQL • MongoDB 
+### Forecasting & Predictive Analytics
+SARIMA • Prophet • XGBoost • Time Series Analysis • Feature Engineering • Model Evaluation
 
-**Other:**  
-Git/GitHub • API Integration • Time-Series Forecasting • Data Modeling  • Microsoft Azure
+### Data Engineering
+ETL Pipelines • Data Cleaning • Data Transformation • Relational Databases • Data Integration
+
+### Development
+FastAPI • JavaScript • React • HTML/CSS • REST APIs • Git/GitHub
+
+### Databases & Cloud
+MySQL • MongoDB • Microsoft Azure • Google Cloud
+
+---
+
+## 💼 What I Build
+
+📊 Business Intelligence Dashboards
+
+🔍 Customer & Marketing Analytics Solutions
+
+⚡ Forecasting & Predictive Models
+
+🤖 AI-Powered Analytics Applications
+
+🧠 NLP & Text Analytics Systems
+
+📈 Decision Support & Insight Platforms
+
+---
+## 📈 Selected Project Highlights
+
+• Built an AI-powered financial recovery assistant using Gemini and ElevenLabs Voice AI
+
+• Developed an electricity demand forecasting pipeline achieving 2.06% MAPE using XGBoost
+
+• Analyzed 100K+ healthcare records to identify drivers of 30-day hospital readmissions
+
+• Built marketing analytics dashboards tracking Revenue, ROAS, CAC, Conversion Rate, and Retention metrics
+
+• Performed NLP-based topic modeling and sentiment analysis across 500+ news podcast transcripts
 
 ---
 
