@@ -48,6 +48,30 @@ Power BI dashboard analyzing revenue, ROAS, ROI, funnel performance, and custome
 
 ---
 
+### 📈 Electricity Demand Forecasting (Capstone Project)  
+End-to-end Python pipeline using SARIMA, Prophet, XGBoost & LSTM with engineered weather/seasonal features to forecast New York’s electricity consumption.      
+**Tools:** Python, ML, Time Series, Power BI      
+🔗 Repo: https://github.com/jueeli97/Capstone_Electricity_Forecasting  
+
+---
+
+### 🏥 Hospital Readmission Analytics (R + Shiny) 
+Interactive healthcare analytics dashboard that analyzes 30-day hospital readmissions using real-world patient encounter data.   
+**Tools**: R, Shiny, shinydashboard, dplyr, ggplot2, caret, pROC  
+🔗 Repo: https://github.com/jueeli97/Hospital-Readmission-Analytics
+
+---
+
+## 🌸 HerRestartAI – AI-Powered Financial Recovery Assistant
+
+AI-powered financial guidance platform that generates personalized budgeting, debt recovery plans, and financial roadmaps for women navigating life transitions using Google Gemini and ElevenLabs Voice AI.
+
+**Tools:** Python, FastAPI, JavaScript, HTML/CSS, Google Gemini API, ElevenLabs API, Prompt Engineering, REST APIs
+
+🔗 **Repo:** https://github.com/jueeli97/StabilityAI
+
+---
+
 ### 📰 Text Mining & Analysis on News Podcasts (NBC vs NYT)  
 NLP + IR project analyzing topics, sentiment, co-occurrence, TF-IDF & inverted/positional indexes on podcast transcripts.  
 **Tools:** Python, spaCy, BERT, NetworkX  
@@ -69,19 +93,6 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 
 ---
 
-### 📈 Electricity Demand Forecasting (Capstone Project)  
-End-to-end Python pipeline using SARIMA, Prophet, XGBoost & LSTM with engineered weather/seasonal features to forecast New York’s electricity consumption.      
-**Tools:** Python, ML, Time Series, Power BI      
-🔗 Repo: https://github.com/jueeli97/Capstone_Electricity_Forecasting  
-
----
-
-### 🏥 Hospital Readmission Analytics (R + Shiny) 
-Interactive healthcare analytics dashboard that analyzes 30-day hospital readmissions using real-world patient encounter data.   
-**Tools**: R, Shiny, shinydashboard, dplyr, ggplot2, caret, pROC  
-🔗 Repo: https://github.com/jueeli97/Hospital-Readmission-Analytics
-
----
 
 ## 📊 GitHub Stats
 
