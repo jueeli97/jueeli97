@@ -7,9 +7,8 @@
   💻 SQL • Python • Power BI • Machine Learning • Generative AI • NLP • Forecasting <br>
   🌎 Open to Data Analyst, BI Analyst, Product Analytics, Analytics Engineer, and Data Scientist opportunities.
 </p>
+---
 
-
-<br>
 
 ## 🚀 About Me
 
@@ -19,9 +18,7 @@ My experience spans business intelligence, customer analytics, predictive modeli
 
 Previously, at TCS, I analyzed user engagement and chatbot interaction data to uncover behavioral trends, measure operational KPIs, and support product improvements. Today, I combine analytics, software engineering, and product thinking to build data-driven solutions across customer analytics, healthcare, forecasting, and AI applications.
 
-
-
-<br>
+---
 
 ## 🛠 Technical Expertise
 
@@ -46,7 +43,7 @@ FastAPI • JavaScript • React • HTML/CSS • REST APIs • Git/GitHub
 ### Databases & Cloud
 MySQL • MongoDB • Microsoft Azure • Google Cloud
 
-<br>
+---
 
 ## 💼 What I Build
 
@@ -62,9 +59,7 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 📈 Decision Support & Insight Platforms
 
-
-
-<br>
+---
 
 ## 📈 Selected Project Highlights
 
@@ -78,9 +73,7 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 • Performed NLP-based topic modeling and sentiment analysis across 500+ news podcast transcripts
 
-
-
-<br>
+---
 
 ## 📌 Featured Projects
 
@@ -133,10 +126,10 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 **Tools:** R, tidyverse, ggplot2, corrplot, Tableau, data visualization    
 🔗 Repo: https://github.com/jueeli97/Corruption-Analysis
 
+---
 
 
-<br>
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jueeli97&theme=blue-green" alt="GitHub Streak Stats"/>
@@ -145,10 +138,10 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jueeli97&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
 </p>
+---
 
 
-<br>
-## 📬 Connect with Me
+### 📬 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/jueeli-sawant-8697441b6/
 - **GitHub:** https://github.com/jueeli97  
