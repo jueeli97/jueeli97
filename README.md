@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Jueeli Sawant 👋</h1>
 <h3 align="center">📊 Data Analyst | Business Intelligence | Data Scientist</h3>
+<h4 align="center">MS Information Technology & Analytics @ Rochester Institute of Technology</h4>
 
 <p align="center">
   Building data-driven products and AI-powered analytics solutions that help organizations make smarter business decisions.<br>
@@ -79,6 +80,13 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 ## 📌 Featured Projects
 
+### 🌸 HerRestartAI – AI-Powered Financial Recovery Assistant (Google Gemini API)
+AI-powered financial guidance platform that generates personalized budgeting, debt recovery plans, and financial roadmaps for women navigating life transitions using Google Gemini and ElevenLabs Voice AI.
+**Tools:** Python, FastAPI, JavaScript, HTML/CSS, Google Gemini API, ElevenLabs API, Prompt Engineering, REST APIs
+🔗 Repo: https://github.com/jueeli97/StabilityAI
+
+---
+
 ### 🛍️ E-commerce & Marketing Analytics Dashboard  
 Power BI dashboard analyzing revenue, ROAS, ROI, funnel performance, and customer segmentation.  
 **Tools:** Power BI, SQL, DAX, Star Schema  
@@ -100,12 +108,7 @@ Interactive healthcare analytics dashboard that analyzes 30-day hospital readmis
 
 ---
 
-### 🌸 HerRestartAI – AI-Powered Financial Recovery Assistant (Google Gemini API)
-AI-powered financial guidance platform that generates personalized budgeting, debt recovery plans, and financial roadmaps for women navigating life transitions using Google Gemini and ElevenLabs Voice AI.
-**Tools:** Python, FastAPI, JavaScript, HTML/CSS, Google Gemini API, ElevenLabs API, Prompt Engineering, REST APIs
-🔗 Repo: https://github.com/jueeli97/StabilityAI
 
----
 
 ### 📰 Text Mining & Analysis on News Podcasts (NBC vs NYT)  
 NLP + IR project analyzing topics, sentiment, co-occurrence, TF-IDF & inverted/positional indexes on podcast transcripts.  
