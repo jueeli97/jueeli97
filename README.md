@@ -46,7 +46,6 @@ FastAPI • JavaScript • React • HTML/CSS • REST APIs • Git/GitHub
 ### Databases & Cloud
 MySQL • MongoDB • Microsoft Azure • Google Cloud
 
----
 <br>
 
 ## 💼 What I Build
@@ -63,7 +62,7 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 📈 Decision Support & Insight Platforms
 
----
+
 
 <br>
 
@@ -79,7 +78,7 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 • Performed NLP-based topic modeling and sentiment analysis across 500+ news podcast transcripts
 
----
+
 
 <br>
 
@@ -134,7 +133,7 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 **Tools:** R, tidyverse, ggplot2, corrplot, Tableau, data visualization    
 🔗 Repo: https://github.com/jueeli97/Corruption-Analysis
 
----
+
 
 <br>
 ## 📊 GitHub Stats
@@ -147,7 +146,7 @@ Cross-country analysis exploring how corruption influences trust, governance qua
   <img src="https://github-readme-stats.vercel.app/api?username=jueeli97&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
 </p>
 
----
+
 <br>
 ## 📬 Connect with Me
 
