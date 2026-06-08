@@ -7,6 +7,7 @@
   💻 SQL • Python • Power BI • Machine Learning • Generative AI • NLP • Forecasting <br>
   🌎 Open to Data Analyst, BI Analyst, Product Analytics, Analytics Engineer, and Data Scientist opportunities.
 </p>
+
 ---
 
 
@@ -138,6 +139,7 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jueeli97&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
 </p>
+
 ---
 
 
