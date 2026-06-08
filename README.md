@@ -9,20 +9,19 @@
 </p>
 
 ---
+<br>
 
 ## 🚀 About Me
 
-I am a Data & Analytics professional focused on transforming raw data into actionable business decisions.
+I am a Data & Analytics professional passionate about transforming complex data into actionable insights that drive business decisions.
 
-My work spans business intelligence, predictive analytics, machine learning, NLP, forecasting, and Generative AI applications. I enjoy building end-to-end analytical solutions—from data preparation and modeling to dashboards and AI-powered decision support systems.
+My experience spans business intelligence, customer analytics, predictive modeling, forecasting, NLP, and Generative AI. I build end-to-end analytical solutions—from data preparation and modeling to dashboards and AI-powered decision support systems.
 
-Recently, I have developed projects across customer analytics, energy forecasting, healthcare analytics, NLP, and AI-powered financial planning, leveraging technologies such as Python, SQL, Power BI, FastAPI, and Google Gemini.
+Previously, at TCS, I analyzed user engagement and chatbot interaction data to uncover behavioral trends, measure operational KPIs, and support product improvements. Today, I combine analytics, software engineering, and product thinking to build data-driven solutions across customer analytics, healthcare, forecasting, and AI applications.
 
-Prior to analytics, I worked as a Frontend and Chatbot Developer at TCS, where I built user-facing applications and conversational AI solutions. This combination of product thinking, software engineering, and analytics allows me to bridge technical implementation with business impact.
-
-I am particularly interested in solving problems involving customer behavior, operational efficiency, forecasting, business intelligence, and AI-driven analytics.
 
 ---
+<br>
 
 ## 🛠 Technical Expertise
 
@@ -48,6 +47,7 @@ FastAPI • JavaScript • React • HTML/CSS • REST APIs • Git/GitHub
 MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 ---
+<br>
 
 ## 💼 What I Build
 
@@ -64,6 +64,9 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 📈 Decision Support & Insight Platforms
 
 ---
+
+<br>
+
 ## 📈 Selected Project Highlights
 
 • Built an AI-powered financial recovery assistant using Gemini and ElevenLabs Voice AI
@@ -77,6 +80,8 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 • Performed NLP-based topic modeling and sentiment analysis across 500+ news podcast transcripts
 
 ---
+
+<br>
 
 ## 📌 Featured Projects
 
@@ -131,7 +136,7 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 
 ---
 
-
+<br>
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -143,7 +148,7 @@ Cross-country analysis exploring how corruption influences trust, governance qua
 </p>
 
 ---
-
+<br>
 ## 📬 Connect with Me
 
 - **LinkedIn:** https://www.linkedin.com/in/jueeli-sawant-8697441b6/
