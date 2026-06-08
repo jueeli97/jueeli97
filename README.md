@@ -8,7 +8,7 @@
   🌎 Open to Data Analyst, BI Analyst, Product Analytics, Analytics Engineer, and Data Scientist opportunities.
 </p>
 
----
+
 <br>
 
 ## 🚀 About Me
@@ -20,7 +20,7 @@ My experience spans business intelligence, customer analytics, predictive modeli
 Previously, at TCS, I analyzed user engagement and chatbot interaction data to uncover behavioral trends, measure operational KPIs, and support product improvements. Today, I combine analytics, software engineering, and product thinking to build data-driven solutions across customer analytics, healthcare, forecasting, and AI applications.
 
 
----
+
 <br>
 
 ## 🛠 Technical Expertise
