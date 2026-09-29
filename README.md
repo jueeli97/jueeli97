@@ -80,17 +80,15 @@ MySQL • MongoDB • Microsoft Azure • Google Cloud
 
 ### 🧠 InsightPulse: AI Customer Intelligence Platform
 Self-serve analytics platform that takes a raw e-commerce CSV and returns KPI dashboards (Revenue, AOV, Channel Performance, Customer Ranking, Category Mix) in under a minute. The ETL layer auto-maps 30+ real-world column name variants and handles missing data, validated on the 500K+ row Online Retail II dataset. Each upload trains churn (XGBoost), RFM segmentation (KMeans) and anomaly detection (Isolation Forest) models, and a Gemini copilot explains the numbers in plain English. 
-**Tools:** Python, FastAPI, SQL, PostgreSQL (Supabase), React, Recharts, Docker, Google Cloud Run, Vercel, Gemini API 
-
-🔗 Repo: https://github.com/jueeli97/insightpulse-app
+**Tools:** Python, FastAPI, SQL, PostgreSQL (Supabase), React, Recharts, Docker, Google Cloud Run, Vercel, Gemini API   
+🔗 Repo: https://github.com/jueeli97/insightpulse-app  
 Live demo : https://insightpulse-app.vercel.app/
 
 ---
 
 ### 🌸 HerRestartAI – AI-Powered Financial Recovery Assistant (Google Gemini API)
 AI-powered financial guidance platform that generates personalized budgeting, debt recovery plans, and financial roadmaps for women navigating life transitions using Google Gemini and ElevenLabs Voice AI.
-**Tools:** Python, FastAPI, JavaScript, HTML/CSS, Google Gemini API, ElevenLabs API, Prompt Engineering, REST APIs
-
+**Tools:** Python, FastAPI, JavaScript, HTML/CSS, Google Gemini API, ElevenLabs API, Prompt Engineering, REST APIs  
 🔗 Repo: https://github.com/jueeli97/StabilityAI
 
 ---
